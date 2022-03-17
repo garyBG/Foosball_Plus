@@ -11,5 +11,9 @@ PhotonPUN 2 Unity Multiplayer Integration
 ## Run
 Hosted through Github Pages at: https://garybg.github.io/Foosball_Plus/
 
+To Open In Unity:
+Note: to avoid Unity compatability problems, use Unity version 2020.3.21f1
+1. Pull project
+2. Open folder hosting Assets, Project Settings, and Packages through UnityHub (Unity will pull all other files for you)
 ## Credits
 Gary Guiragossian, Dylan Thibault
